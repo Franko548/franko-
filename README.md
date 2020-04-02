@@ -1,2 +1,2 @@
 # franko-
-flappy birg game 
+flappy bird game 
